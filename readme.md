@@ -6,10 +6,10 @@ This is a fairly simple task.
 Calculate the sum of two integers, `a` and `b`.
 
 ## Input
-Two integers `a` and `b` such that 0 ≤ a, b ≤ 10^{40}.
+Two integers `a` and `b` such that $0 ≤ a, b ≤ 10^{40}$.
 
 ## Output
-Output the sum of `a` and `b`, which should be less than or equal to 10^{50}.
+Output the sum of `a` and `b`, which should be less than or equal to $10^{50}$.
 
 # Sample Input
 1 2
@@ -28,7 +28,7 @@ Please use: `https://open.kattis.com/help` for more information.
 Always submit a main file. Either main.cpp; main.java; main.c; or main.py. The test.py is for testing the output.
 # Difference with the real ICPC
 A real test will: have a time limit to work on; do not tell you the correct answer, not even that if you get wrong answer or not; have a penalty for wrong answer.
-However, running a test like this is too hard, requiring $erver$, good organization.
+However, running a test like this is too hard, requiring servers and good organization.
 For the courtesy, you are given a chance to look at all hidden test cases. You will not be likely to be penalized. And you won't have a time limit for solving the problem, although the program has to be terminated within a reasonable time limit.
 # How does Github classroom work for me?
 The github action will tell if you pass or not.
