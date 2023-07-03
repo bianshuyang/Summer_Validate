@@ -4,9 +4,9 @@ This is to ensure you know how to do the questions.
 This is a fairly simple task.
 # Description: Calculate a+b
 # Input:
-Two integer a,b (0<=a,b<=10)
+Two integer a,b (0<=a,b<=10^40)
 # Output:
-Output a+b
+Output a+b (a+b<=10^50)
 # Sample Input
 1 2
 # Sample Output
