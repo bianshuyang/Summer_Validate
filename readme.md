@@ -20,9 +20,9 @@ Q: Where are the input and the output? <br>
 A: Your program shall always read input from stdin (Standard Input) and write output to stdout (Standard Output). For example, you can use 'scanf' in C or 'cin' in C++ to read from stdin, and use 'printf' in C or 'cout' in C++ to write to stdout. <br>
 You shall not output any extra data to standard output other than that required by the problem, such as "The answer is..." otherwise you will get a "Wrong Answer". <br>
 User programs are not allowed to open and read from/write to files. <br>
-In python, it is: `sys.stdin.readline()`
-In C, C++, you have to use: `cin`, `cout`
-In Java, you have to use: `Scanner`
+In python, it is: `sys.stdin.readline()` to read and `print()` to print.
+In C++, you have to use: `cin`, `cout`
+In Java, you have to use: `Scanner` and also print to get the output.
 Please use: `https://open.kattis.com/help` for more information.
 # How to submit
 Always submit a main file. Either main.cpp; main.java; main.c; or main.py. The test.py is for testing the output.
