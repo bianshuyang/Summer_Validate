@@ -2,11 +2,15 @@ Hi!
 Welcome to a first test.
 This is to ensure you know how to do the questions.
 This is a fairly simple task.
-# Description: Calculate a+b
-# Input:
-Two integer a,b (0<=a,b<=10^40)
-# Output:
-Output a+b (a+b<=10^50)
+## Description
+Calculate the sum of two integers, `a` and `b`.
+
+## Input
+Two integers `a` and `b` such that 0 <= a, b <= 10^40.
+
+## Output
+Output the sum of `a` and `b`, which should be less than or equal to 10^50.
+
 # Sample Input
 1 2
 # Sample Output
