@@ -27,13 +27,13 @@ If you are using Python, upload .py files would suffice.
 Always submit main.py or compile to main Executable as that's how test.py works.
 After test.py verify all pre-tests you should be fine.
 If test.py has an error you will see a clear error.
-Here is a demo:
+Here is a demo: <br>
 <img width="123" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/1de7671d-eb5d-457e-affe-faa98b305664">
-This above image shows "pending judgement"
+This above image shows "pending judgement" <br>
 <img width="688" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/a097f040-1964-4e99-b2d3-fd6afcf2268e">
-A green check mark shows "succeed"
-A red color means failed submission.
-View details here.
+A green check mark shows "succeed" <br>
+A red color means failed submission. <br>
+View details here. <br>
 <img width="712" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/600b4374-077e-47de-934d-e332a8dceb45">
 
 <img width="662" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/08ea77de-ceba-4ab8-a8e4-429b35f69613">
