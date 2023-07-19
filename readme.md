@@ -1,44 +1,74 @@
-# Hi!
-Welcome to a first test.
-This is to ensure you know how to do the questions.
-This is a fairly simple task.
-## Description
-Calculate the sum of two integers, `a` and `b`.
+# Welcome!
+
+This is your first test to ensure you understand the question format and how to respond appropriately. This will be a fairly simple task.
+
+## Task Description
+
+Your task is to calculate the sum of two integers, `a` and `b`.
 
 ## Input
-Two integers `a` and `b` such that $0 ≤ a, b ≤ 10^{40}$.
+
+You will be given two integers `a` and `b`, with each integer fulfilling the condition $0 ≤ a, b ≤ 10^{40}$.
 
 ## Output
-Output the sum of `a` and `b`, which should be less than or equal to $10^{50}$.
 
-# Sample Input
+Your program should output the sum of `a` and `b`, ensuring the result is less than or equal to $10^{50}$.
+
+## Sample Input
+
 1 2
-# Sample Output
-3
-# Hint
-Q: Where are the input and the output? <br>
-A: Your program shall always read input from stdin (Standard Input) and write output to stdout (Standard Output). For example, you can use 'scanf' in C or 'cin' in C++ to read from stdin, and use 'printf' in C or 'cout' in C++ to write to stdout. <br>
-You shall not output any extra data to standard output other than that required by the problem, such as "The answer is..." otherwise you will get a "Wrong Answer". <br>
-User programs are not allowed to open and read from/write to files. <br>
-In python, it is: `sys.stdin.readline()` to read and `print()` to print.
-In C++, you have to use: `cin`, `cout`
-In Java, you have to use: `Scanner` and also print to get the output.
-Please use: `https://open.kattis.com/help` for more information.
-# How to submit
-Always submit a main file. Either main.cpp; main.java; main.c; or main.py. The test.py is for testing the output.
-# Difference with the real ICPC
-A real test will: have a time limit to work on; do not tell you the correct answer, not even that if you get wrong answer or not; have a penalty for wrong answer.
-However, running a test like this is too hard, requiring servers and good organization.
-For the courtesy, you are given a chance to look at all hidden test cases. You will not be likely to be penalized. And you won't have a time limit for solving the problem, although the program has to be terminated within a reasonable time limit.
-# How does Github classroom work for me?
-The github action will tell if you pass or not.
-Here is a demo: <br>
-<img width="123" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/1de7671d-eb5d-457e-affe-faa98b305664">
-This above image shows "pending judgement" <br>
-<img width="688" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/a097f040-1964-4e99-b2d3-fd6afcf2268e">
-A green check mark shows "succeed" <br>
-A red color means failed submission. <br>
-<img width="712" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/600b4374-077e-47de-934d-e332a8dceb45">
-View details here. <br>
-<img width="662" alt="image" src="https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/08ea77de-ceba-4ab8-a8e4-429b35f69613">
 
+
+## Sample Output
+
+3
+
+
+## Hints
+
+### Where are the input and the output?
+
+Your program should read input from stdin (Standard Input) and write output to stdout (Standard Output). 
+
+For instance, in:
+
+- C: You can use 'scanf' to read from stdin and 'printf' to write to stdout.
+- C++: You can use 'cin' to read from stdin and 'cout' to write to stdout.
+- Python: Use `sys.stdin.readline()` to read and `print()` to output.
+- Java: Use `Scanner` to read and print to output.
+
+Please refrain from outputting extra data to stdout other than what is required by the problem, such as "The answer is..." as this will lead to a "Wrong Answer". 
+
+You can find more information at [https://open.kattis.com/help](https://open.kattis.com/help).
+
+## Submission
+
+Please submit your solution in a main file named either `main.cpp`, `main.java`, `main.c`, or `main.py`. 
+
+Use `test.py` to test your output.
+
+## Differences with the Real ICPC
+
+Unlike the real test, you won't have a time limit to work on the problem, you can see the correct answer, and you won't be penalized for wrong answers. 
+
+Please note, however, that your program should still terminate within a reasonable time limit.
+
+## Using Github Classroom
+
+Github action will indicate if you pass or not. 
+
+For example, the image below shows "pending judgement":
+
+![Pending Judgement](https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/1de7671d-eb5d-457e-affe-faa98b305664)
+
+A green check mark indicates a successful submission:
+
+![Successful Submission](https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/a097f040-1964-4e99-b2d3-fd6afcf2268e)
+
+A red color signifies a failed submission:
+
+![Failed Submission](https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/600b4374-077e-47de-934d-e332a8dceb45)
+
+You can view further details here:
+
+![Details](https://github.com/bianshuyang/Summer_Validate_00/assets/52821055/08ea77de-ceba-4ab8-a8e4-429b35f69613)
